@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-- 🔭 I’m currently working on **Art Gallery**
-
 - 📫 How to reach me **magneskounder6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
